@@ -1,0 +1,63 @@
+body {
+    background-color:powderblue;
+    font-weight: bolder;
+}
+h1 {
+    font-weight: bolder;
+    color:darkblue;
+    text-align: center;
+    text-shadow: 0in;
+    text-decoration:underline;
+}
+h2 {
+    font-weight: bolder;
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+h4 {
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p {
+    color: navy;
+    text-indent: 30px;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    size: 0vmax;
+    align-self: baseline;
+    border: blue;
+    
+}
+.navyblue-para {
+    text-decoration: underline;
+    text-decoration-color: navy;
+    text-decoration: overline;
+}
+
+.blue-para {
+    color:darkblue;
+    text-align: center;
+
+}
+.blue-para {
+    color:navy
+     
+}
